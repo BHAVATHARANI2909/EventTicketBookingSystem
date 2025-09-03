@@ -1,0 +1,44 @@
+/* LoginPage.css */
+
+.login-bg {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url('login.jpg');
+  background-color: #f5f5f5;
+  background-blend-mode: overlay;
+  background-color: rgba(173, 51, 206, 0.8);
+}
+
+.login-box {
+  background: #fff;
+  border-radius: 16px;
+  padding: 40px 32px;
+  max-width: 420px;
+  width: 100%;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.3);
+  border-left: 6px solid purple;
+}
+
+.login-title {
+  font-weight: 700;
+  margin-bottom: 24px;
+  color: purple;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.login-link {
+  color:purple;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+

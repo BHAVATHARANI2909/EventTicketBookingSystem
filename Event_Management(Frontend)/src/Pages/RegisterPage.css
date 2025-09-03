@@ -1,0 +1,5 @@
+.register-bg{
+  background-image: url('login.jpg');
+  background-blend-mode: overlay;
+  background-color: rgba(173, 51, 206, 0.8);
+}
