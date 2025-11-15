@@ -1,0 +1,15 @@
+.navbar-glass {
+  background: rgba(255, 255, 255, 0.6) !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(255, 0, 0, 0.3);
+}
+
+.nav-link {
+  color: rgb(200, 0, 255) !important;
+  font-weight: 500;
+  transition: 0.3s ease;
+}
+
+.nav-link:hover {
+  color: purple !important;
+}
